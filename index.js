@@ -78,14 +78,15 @@
 // console.log(require("module").wrapper);
 //  console.log(arguments);
 
-const Account =require("./account");
-Account.tellMeAboutClass();
-Account.tellMeTime();
-console.log("=============");
-const myAccaunt = new Account('Michael', 9000000, 45435454389563);
-myAccaunt.giveMeDetails();
+// const Account =require("./account");
+// Account.tellMeAboutClass();
+// Account.tellMeTime();
+// console.log("=============");
+// const myAccaunt = new Account('Michael', 90000000, 45435454389563);
+// myAccaunt.giveMeDetails();
 
-myAccaunt.makeDeposit(1000000);
+// myAccaunt.makeDeposit(1000000);
 
-// Ferrari 3,4mln usd
-myAccaunt.withdrowMoney(34000000);
+// // Ferrari 3,4mln usd
+// myAccaunt.withdrowMoney(3400000);
+// //file package
